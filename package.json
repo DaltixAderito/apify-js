@@ -85,6 +85,7 @@
         "@babel/register": "^7.9.0",
         "@types/content-type": "^1.1.3",
         "@types/fs-extra": "^9.0.0",
+        "@types/htmlparser2": "^3.10.1",
         "@types/jest": "^26.0.0",
         "@types/request-promise-native": "^1.0.17",
         "@types/rimraf": "^3.0.0",
@@ -114,6 +115,6 @@
         "why-is-node-running": "^2.1.2"
     },
     "optionalDependencies": {
-        "puppeteer": "5.2.1"
+        "puppeteer": "5.4.1"
     }
 }
