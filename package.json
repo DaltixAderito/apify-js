@@ -85,7 +85,7 @@
         "@babel/register": "^7.9.0",
         "@types/content-type": "^1.1.3",
         "@types/fs-extra": "^9.0.0",
-        "@types/htmlparser2": "git://github.com/fb55/htmlparser2.git#1c8edaffc3b50e69fdb95f2964626b763e7a4197",
+        "@types/htmlparser2": "git://github.com/fb55/htmlparser2.git#dd45a60f479fb51c159cb01215679ac56ad8100d",
         "@types/jest": "^26.0.0",
         "@types/request-promise-native": "^1.0.17",
         "@types/rimraf": "^3.0.0",
